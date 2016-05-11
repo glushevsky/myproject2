@@ -17,7 +17,7 @@ namespace webprimer2
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            outobjects = XmlParser(@"D:\home\site\wwwroot\Input.xml");//(AppDomain.CurrentDomain.BaseDirectory + "/Input.xml");// путь к xml
+            outobjects = XmlParser("D:/home/site/wwwroot/Input.xml");//(AppDomain.CurrentDomain.BaseDirectory + "/Input.xml");// путь к xml
             foreach (var elem in outobjects)
             {
                 ParameterControl elemControl = (ParameterControl)LoadControl("ParameterControl.ascx");
