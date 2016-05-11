@@ -1,0 +1,28 @@
+h:\My Documents\Visual Studio 2008\Projects\webprimer2\webprimer2\bin\webprimer2.dll
+h:\My Documents\Visual Studio 2008\Projects\webprimer2\webprimer2\bin\webprimer2.pdb
+h:\My Documents\Visual Studio 2008\Projects\webprimer2\webprimer2\obj\Debug\ResolveAssemblyReference.cache
+h:\My Documents\Visual Studio 2008\Projects\webprimer2\webprimer2\obj\Debug\webprimer2.dll
+h:\My Documents\Visual Studio 2008\Projects\webprimer2\webprimer2\obj\Debug\webprimer2.pdb
+C:\Documents and Settings\Glushevskiy\Desktop\2008\webprimer2\webprimer2\bin\webprimer2.dll
+C:\Documents and Settings\Glushevskiy\Desktop\2008\webprimer2\webprimer2\bin\webprimer2.pdb
+C:\Documents and Settings\Glushevskiy\Desktop\2008\webprimer2\webprimer2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Glushevskiy\Desktop\2008\webprimer2\webprimer2\obj\Debug\webprimer2.dll
+C:\Documents and Settings\Glushevskiy\Desktop\2008\webprimer2\webprimer2\obj\Debug\webprimer2.pdb
+C:\Users\Евгений\Desktop\Новая папка (4)\webprimer2\webprimer2\bin\webprimer2.dll.config
+C:\Users\Евгений\Desktop\Новая папка (4)\webprimer2\webprimer2\bin\webprimer2.dll
+C:\Users\Евгений\Desktop\Новая папка (4)\webprimer2\webprimer2\bin\webprimer2.pdb
+C:\Users\Евгений\Desktop\Новая папка (4)\webprimer2\webprimer2\obj\Debug\webprimer2.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Новая папка (4)\webprimer2\webprimer2\obj\Debug\webprimer2.dll
+C:\Users\Евгений\Desktop\Новая папка (4)\webprimer2\webprimer2\obj\Debug\webprimer2.pdb
+E:\Новая папка (5)\webprimer2\webprimer2\bin\webprimer2.dll.config
+E:\Новая папка (5)\webprimer2\webprimer2\bin\webprimer2.dll
+E:\Новая папка (5)\webprimer2\webprimer2\bin\webprimer2.pdb
+E:\Новая папка (5)\webprimer2\webprimer2\obj\Debug\webprimer2.csprojResolveAssemblyReference.cache
+E:\Новая папка (5)\webprimer2\webprimer2\obj\Debug\webprimer2.dll
+E:\Новая папка (5)\webprimer2\webprimer2\obj\Debug\webprimer2.pdb
+C:\Users\Евгений\Desktop\Новая папка (5)\webprimer2\webprimer2\bin\webprimer2.dll.config
+C:\Users\Евгений\Desktop\Новая папка (5)\webprimer2\webprimer2\bin\webprimer2.dll
+C:\Users\Евгений\Desktop\Новая папка (5)\webprimer2\webprimer2\bin\webprimer2.pdb
+C:\Users\Евгений\Desktop\Новая папка (5)\webprimer2\webprimer2\obj\Debug\webprimer2.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Новая папка (5)\webprimer2\webprimer2\obj\Debug\webprimer2.dll
+C:\Users\Евгений\Desktop\Новая папка (5)\webprimer2\webprimer2\obj\Debug\webprimer2.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<Parameters>
+  <Parameter>
+    <Id>1a</Id>
+    <Name>Text1</Name>
+    <Description>Текстовое поле 1</Description>
+    <Type>System.String</Type>
+    <Value>ABC</Value>
+  </Parameter>
+  <Parameter>
+    <Id>2a</Id>
+    <Name>Text2</Name>
+    <Description>Текстовое поле 2</Description>
+    <Type>System.String</Type>
+    <Value>DEF</Value>
+  </Parameter>
+  <Parameter>
+    <Id>3a</Id>
+    <Name>Int3</Name>
+    <Description>Числовое поле 1</Description>
+    <Type>System.Integer</Type>
+    <Value>123</Value>
+  </Parameter>
+  <Parameter>
+    <Id>3a</Id>
+    <Name>Bool4</Name>
+    <Description>Check</Description>
+    <Type>System.Boolean</Type>
+    <Value>True</Value>
+  </Parameter>
+</Parameters>
