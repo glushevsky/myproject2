@@ -42,7 +42,7 @@ namespace webprimer2
         public void Saving_Click(Object sender, EventArgs e)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(List<Parameter>));
-            TextWriter writer = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "/Output.xml"); //путь к xml
+            TextWriter writer = new StreamWriter("D:/home/site/repository/webprimer2/Output.xml");//(AppDomain.CurrentDomain.BaseDirectory + "/Output.xml"); //путь к xml
             outobjects.Clear();
             for (int i = 0; i < form1.Controls.Count; i++)
             {
